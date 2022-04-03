@@ -10,3 +10,6 @@ ln -s ~/.dotfiles/config/electron-flags.conf
 
 cd ~/.config/sway
 ln -s ~/.dotfiles/config/sway
+
+cd ~/.config/waybar
+ln -s ~/.dotfiles/config/waybar
